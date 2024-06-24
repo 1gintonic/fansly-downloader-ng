@@ -61,8 +61,8 @@ This is a rewrite/refactoring of [Avnsx](https://github.com/Avnsx)'s original [F
       <strong>📥 Download Modes</strong>
       <hr>
       <ul align="left">
-        <li>Bulk: Timeline, Messages, Collection</li>
-        <li>Single Posts by post ID</li>
+        <li>Bulk: Timeline, Messages, Collection, Album</li>
+        <li>Posts by post link or ID</li>
       </ul>
     </td>
     <td align="middle" nowrap>
